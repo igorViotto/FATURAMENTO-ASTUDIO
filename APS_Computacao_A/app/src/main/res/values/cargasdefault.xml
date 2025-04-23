@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cargas_default">
+        <item>ID: 1234 | 25.000 KG | R$ 25.000,00</item>
+    </string-array>
+
+</resources>
